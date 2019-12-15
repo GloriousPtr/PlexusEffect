@@ -75,7 +75,7 @@ LineRenderer:
   - {x: 0, y: 0, z: 1}
   m_Parameters:
     serializedVersion: 3
-    widthMultiplier: 0.025
+    widthMultiplier: 0.05
     widthCurve:
       serializedVersion: 2
       m_Curve:
@@ -93,8 +93,8 @@ LineRenderer:
       m_RotationOrder: 4
     colorGradient:
       serializedVersion: 2
-      key0: {r: 0.38812745, g: 0.69161725, b: 0.9245283, a: 1}
-      key1: {r: 0.023362402, g: 0.2488009, b: 0.990566, a: 1}
+      key0: {r: 0.32315964, g: 0.28435388, b: 0.8490566, a: 1}
+      key1: {r: 0.27500895, g: 0.3421694, b: 0.5660378, a: 1}
       key2: {r: 0, g: 0, b: 0, a: 0}
       key3: {r: 0, g: 0, b: 0, a: 0}
       key4: {r: 0, g: 0, b: 0, a: 0}
