@@ -3,6 +3,7 @@
 </h1>
 
 [![Build Status](https://github.com/MohitSethi99/PlexusEffect/workflows/build/badge.svg)](https://github.com/MohitSethi99/PlexusEffect/actions?workflow=build)
+[![CodeFactor](https://www.codefactor.io/repository/github/mohitsethi99/plexuseffect/badge)](https://www.codefactor.io/repository/github/mohitsethi99/plexuseffect)
 
 <p align="center">
   <img alt="platforms" src="https://img.shields.io/badge/platform-Unity-blue?style=flat-square"/>
