@@ -269,7 +269,6 @@ struct PlexusJob : IJob
             {
                 float3 distance = positions[i] - positions[j];
                 float distanceMagnitudeSqr = math.lengthsq(distance);
-                //float distanceMagnitudeSqr = SqrMagnitude(ref distance);
 
                 if (distanceMagnitudeSqr > maxDistanceSquared)
                     continue;
@@ -284,7 +283,4 @@ struct PlexusJob : IJob
             }
         }
     }
-
-    [MethodImpl(MethodImplOptions.AggressiveInlining)]
-    private float SqrMagnitude(ref float3 value) => value.x * value.x + value.y * value.y + value.z * value.z;
 }
